@@ -1,6 +1,7 @@
 👋 Hi, I’m @LMCuber
 
-I'm best at Python, but relatively proficient at Java, JS/TS, Lua. Currently learning Zig.
+I'm best at Python, but relatively proficient at Java, JS/TS, Lua.
+Currently learning Zig.
 I'm interested in:
   - Gamedev
   - Simulations
