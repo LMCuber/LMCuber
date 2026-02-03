@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @LMCuber
+👋 Hi, I’m @LMCuber
 
 I'm best at Python, but relatively proficient at Java, JS/TS, Lua. Currently learning Zig.
 I'm interested in:
   - Gamedev
   - Simulations
+  - Piano
   - Learning new stuff
+
 - 📫 How to reach me leo.bozkir@outlook.com
 
 <!---
