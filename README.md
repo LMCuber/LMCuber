@@ -7,7 +7,7 @@ I'm interested in:
   - Piano
   - Learning new stuff
 
-- 📫 How to reach me leo.bozkir@outlook.com
+📫 How to reach me leo.bozkir@outlook.com
 
 <!---
 LMCuber/LMCuber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
